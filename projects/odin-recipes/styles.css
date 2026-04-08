@@ -1,6 +1,41 @@
 body {
     background-color: rgb(122, 122, 122);
     color: rgb(199, 187, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 4px;
+}
+
+p {
+    font-weight: bold;
+    padding: 8px 0;
+}
+a {
+    font-size: 20px;
+}
+
+button {
+    background-color: burlywood;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 4px;
+    margin: 0 0 4px 0;
+}
+
+div {
+    margin-bottom: 9px;
+}
+
+.title {
+    background-color: rgb(71, 71, 71);
+    height: 40px;
+    margin: 0 0 10px 0;
+    padding: 8px;
+    border-radius: 4px 20px 4px;
+}
+
+.home {
+    font-size: 28px;
+    border: 8px;
 }
 
 #recipe-pic {
